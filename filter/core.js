@@ -35,6 +35,7 @@ function allSameVowels (array) {
   return result
 };
 
+
 module.exports = {
   onlyEven: onlyEven,
   onlyOneWord: onlyOneWord,
